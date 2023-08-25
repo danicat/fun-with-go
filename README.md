@@ -1,4 +1,4 @@
-# fun-with-go
+# Fun With Go
 This is the home of my "Fun with..." trilogy of talks.
 
 ## Episode 1: Fun with Pointers
@@ -26,3 +26,18 @@ The session will be composed most of code examples using the playground, with an
 Links:
 - [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQDvy-3KT6-cqbxzJ2UY8sFe86mOknAGJiP5aDD_FwWusezgVzdItYIiVDxNMX9O30k10IX27PNI9Hx/pub?start=false&loop=false&delayms=3000)
 - [Recording](https://youtu.be/9yHts5xZtX8?si=LNk01dx0fWAbwnNx)
+
+## Episode 3: Fun with Generics
+
+Originally presented at [Gophercon UK 2023](https://gophercon.co.uk)
+
+It has been over two years since generics were introduced in Go. Have you done anything fun with it? I have! Ever since the "Creative Use of Generics Contest" at Gophercon 2021 I have been dreaming with a monads library implementation in Go. In this session I will walk you through the basics of generics, how I used it to build a monads library, the challenges, limitations and a comparison with non-generic Go. In the end, you will be the judge to the question: was it a good idea after all? 
+
+Topics include:
+- Generics syntax: types, functions, interfaces
+- Generics constraints
+- Monads: what they are, what they eat, where they live
+- An Option type implemented in Go
+
+Links:
+- [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSmNmAv3BT_rcVFoosG2RChLU4DrbGrZt5vy_kRVoucaIBg9fA6vLNyvqedKkloivY3Bj2JokSu4hwT/pub?start=false&loop=false&delayms=3000)
