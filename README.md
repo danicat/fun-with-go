@@ -25,7 +25,7 @@ The session will be composed most of code examples using the playground, with an
 
 Links:
 - [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQDvy-3KT6-cqbxzJ2UY8sFe86mOknAGJiP5aDD_FwWusezgVzdItYIiVDxNMX9O30k10IX27PNI9Hx/pub?start=false&loop=false&delayms=3000)
-- [Recording](https://youtu.be/9yHts5xZtX8?si=LNk01dx0fWAbwnNx)
+- [Recording](https://youtu.be/9yHts5xZtX8?si=VV5ToKe-MV3tLuTD&t=130) (Note: English starts at minute 2:10)
 
 ## Episode 3: Fun with Generics
 
